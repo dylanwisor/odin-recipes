@@ -1,0 +1,56 @@
+body {
+  background-color: #fdfdfd;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+img {
+  height: 300px;
+  width: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color:rgb(207, 104, 89);
+}
+
+.page-title {
+  font-weight: bold;
+  color: #212121;
+}
+
+.site-banner {
+  height: 75px;
+  font-weight: bold;
+  color: white;
+  background-color: rgb(207, 104, 89);
+  font-size: 48px;
+}
+
+.site-banner a:link,
+.site-banner a:visited,
+.site-banner a:hover,
+.site-banner a:active {
+  text-decoration: none;
+  color: white;
+}
+
+.section-header {
+  color: rgb(207, 104, 89);
+  font-weight: bold;
+}
+
+.img-description {
+  font-style: italic;
+}
+
+li {
+  line-height: 1.5;
+}
+
+#recipe-index {
+  list-style: none;
+  color: rgb(207, 104, 89);
+}
